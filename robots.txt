@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shope1010.github.io/diskon/sitemap.xml
